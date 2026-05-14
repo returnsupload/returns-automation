@@ -21,5 +21,13 @@ jobs:
     - name: Install dependencies
       run: npm install
 
+    # 👇 create credentials.json from secret
+    - name: Create Google credentials file
+      run: echo '${{ secrets.GOOGLE_CREDENTIALS }}' > credentials.json
+
+    # 👇 create token.json from secret
+    - name: Create Google token file
+      run: echo '${{ secrets.GOOGLE_TOKEN }}' > token.json
+
     - name: Run automation
       run: node main.js
