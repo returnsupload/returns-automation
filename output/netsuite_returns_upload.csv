@@ -1,0 +1,5 @@
+Marketplace,Order ID,SKU,Reason,Quantity
+Amazon,A123,SKU-RED,Defective,1
+Amazon,A124,SKU-BLUE,Wrong Size,2
+eBay,E555,SKU-GREEN,Changed Mind,1
+Walmart,W999,SKU-YELLOW,Damaged,3

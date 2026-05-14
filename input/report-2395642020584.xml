@@ -1,0 +1,2746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+	<DocumentVersion>1.00</DocumentVersion>
+</Header>
+<MessageType>Returns-Report</MessageType>
+<Message>
+<return_details>
+    <item_details>
+        <item_name>for Toyota Camry AC Condenser Fan Assembly 1992 93 94 95 1996 for TO3113101 | 8859033011</item_name>
+        <asin>B08BRL6STM</asin>
+        <return_reason_code>CR-SWITCHEROO</return_reason_code>
+        <merchant_sku>CLX-M0-312-55017-200-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158891556322761</order_item_id>
+    </item_details>
+    <order_id>112-7189622-5567469</order_id>
+    <order_date>2026-04-29T14:42:37Z</order_date>
+    <amazon_rma_id>DHQZXzYKRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T18:48:19Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045269273</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>12.63</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>Amazon CS</return_type>
+    <order_amount>64.34</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Volkswagen Atlas Cross Sport 2020 2021 2022 2023 Radiator | 3.6L Engine | Aluminum Core | Plastic Tank | Replacement For VW3010168 | 3QF121251D</item_name>
+        <asin>B0CSGB7679</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>CLX-M0-USA-P13755-CL360A71</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159191803866681</order_item_id>
+    </item_details>
+    <order_id>114-7642908-6595423</order_id>
+    <order_date>2026-05-04T16:11:47Z</order_date>
+    <amazon_rma_id>D4QHXsYxRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T18:41:01Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045267953</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>12.63</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>216.68</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>CarLights360: For Lexus LS400 Side Marker Light Assembly 1998 1999 2000 Passenger Side | DOT Certified | LX2551103</item_name>
+        <asin>B07PSBYMGV</asin>
+        <return_reason_code>CR-ORDERED_WRONG_ITEM</return_reason_code>
+        <merchant_sku>CLX-M0-18-5963-00-1-CL360A3</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>23.91</refund_amount>
+        <order_item_id>159394325562121</order_item_id>
+    </item_details>
+    <order_id>111-8126630-2892255</order_id>
+    <order_date>2026-05-07T18:55:12Z</order_date>
+    <return_request_date>2026-05-11T18:35:24Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>23.91</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Ford Edge Windshield Washer Reservoir 2007-2014 | w/Pump and Cap | Fluid Level Sensor Port | FO1288134 | BT4Z17618A</item_name>
+        <asin>B0BK75SML3</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPF370521-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>76.65</refund_amount>
+        <order_item_id>158564606579401</order_item_id>
+    </item_details>
+    <order_id>111-8014687-6199428</order_id>
+    <order_date>2026-04-25T22:22:13Z</order_date>
+    <return_request_date>2026-05-11T18:29:39Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>76.65</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For 2005-2010 Volkswagen Jetta Pair Driver and Passenger Side Turn Signal/Side Marker Light Lens and Housing Only VW2530108 VW2531108 - Replaces 1K5 945 071 A 1K5 945 072 A ;for Sedan; Gen 5</item_name>
+        <asin>B07L2JDHPW</asin>
+        <return_reason_code>CR-UNAUTHORIZED_PURCHASE</return_reason_code>
+        <merchant_sku>PLX-M0-18-5998-01</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>21.46</refund_amount>
+        <order_item_id>159356482132961</order_item_id>
+    </item_details>
+    <order_id>111-9840938-9159443</order_id>
+    <order_date>2026-05-06T20:56:20Z</order_date>
+    <return_request_date>2026-05-11T18:25:01Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>21.46</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for Hyundai Palisade 2023 2024 License Plate Bracket | Front | PP Plastic | for Calligraphy and Ultimate Models | Replacement for HY1068135</item_name>
+        <asin>B0CZ3WNW7W</asin>
+        <return_reason_code>EXCESSIVE_INSTALLATION</return_reason_code>
+        <merchant_sku>LLX-HY1068135-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>32.26</refund_amount>
+        <order_item_id>159398843189881</order_item_id>
+    </item_details>
+    <order_id>112-5723162-0032249</order_id>
+    <order_date>2026-05-07T19:49:57Z</order_date>
+    <return_request_date>2026-05-11T18:21:22Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>32.26</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for Honda CR-V 2017-2022 Driver Side Wheel Arch Molding | Rear | On Quarter Panel | 74453TLAA01 | HO1790106</item_name>
+        <asin>B09R2FVWJP</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>MLX-SHEHOCRV17-93M-1-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>38.72</refund_amount>
+        <order_item_id>159341071830801</order_item_id>
+    </item_details>
+    <order_id>114-7526641-0666647</order_id>
+    <order_date>2026-05-06T19:11:19Z</order_date>
+    <return_request_date>2026-05-11T18:02:15Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>38.72</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Chevy Cobalt 2005 2006 2007 2008 Fuel Line Kit | Stainless Steel, PTFE Material | Silver Color | 7.7 Millimeters, 10.5 Millimeters Inside Diameter | Replacement For 15283792, 15934416</item_name>
+        <asin>B0FM2NQHVD</asin>
+        <return_reason_code>CR-UNAUTHORIZED_PURCHASE</return_reason_code>
+        <merchant_sku>ALX-PAU-RB-919-901-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159346700944241</order_item_id>
+    </item_details>
+    <order_id>114-8549326-8149842</order_id>
+    <order_date>2026-05-06T19:49:34Z</order_date>
+    <amazon_rma_id>DBh4XFY6RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T17:44:27Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>574.25</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Ram ProMaster 1500/ProMaster 2500/ProMaster 3500 2021 Bumper Cover Passenger Side | Rear | For Models With Blind Spot Sensor/With Reflector | Replacement For CH1117106 | 6ZH36JXWAA</item_name>
+        <asin>B0F388MXBP</asin>
+        <return_reason_code>PART_NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>MLX-SHECHPROM21-89R-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158728284906681</order_item_id>
+    </item_details>
+    <order_id>112-2925324-2347467</order_id>
+    <order_date>2026-04-28T15:10:02Z</order_date>
+    <amazon_rma_id>DphRX3YxRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T17:40:27Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045226443</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.37</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>91.51</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Ram ProMaster 1500/ProMaster 2500/ProMaster 3500 2021 Bumper Cover Passenger Side | Rear | For Models With Blind Spot Sensor/With Reflector | Replacement For CH1117106 | 6ZH36JXWAA</item_name>
+        <asin>B0F388MXBP</asin>
+        <return_reason_code>PART_NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>MLX-SHECHPROM21-89R-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158728284906681</order_item_id>
+    </item_details>
+    <order_id>112-2925324-2347467</order_id>
+    <order_date>2026-04-28T15:10:02Z</order_date>
+    <amazon_rma_id>DZh7XcYFRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T17:31:25Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045217766</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.37</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>91.51</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Honda HR-V 2023 2024 2025 Door Mirror Passenger Side | Power | Heated | LX Model | Replacement For HO1321362 | 76208-3W0-A03</item_name>
+        <asin>B0G7F7V272</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-4830131-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>157903890589081</order_item_id>
+    </item_details>
+    <order_id>113-2233902-4955459</order_id>
+    <order_date>2026-04-15T20:05:51Z</order_date>
+    <amazon_rma_id>D4hkXdYBRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T17:28:18Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045213948</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.37</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>0.0</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Ram ProMaster 1500/2500/3500 2014-2022 Headlight Trim Driver And Passenger Side | Pair | Lower | Filler Below Light | Primed White | CH1088103, CH1089103 | 196743295992, 196743296005</item_name>
+        <asin>B0DVX29ZS8</asin>
+        <return_reason_code>CR-FOUND_BETTER_PRICE</return_reason_code>
+        <merchant_sku>LLX-PAIR-CH1088103-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159103793318641</order_item_id>
+    </item_details>
+    <order_id>112-5044997-4040208</order_id>
+    <order_date>2026-05-03T13:18:37Z</order_date>
+    <amazon_rma_id>DszqXwYlRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T17:15:41Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045210174</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>58.37</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Mazda 3/3 Sport Fog Light Cover 2017 2018 Driver Side | Grille Bezel | Textured Black | Hatchback/Sedan | MA1038134 | BANE50C21A</item_name>
+        <asin>B0BJW2NQ8Z</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-USA-RM10860004-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>22.72</refund_amount>
+        <order_item_id>159014295487761</order_item_id>
+    </item_details>
+    <order_id>114-7000653-2677831</order_id>
+    <order_date>2026-05-01T23:38:09Z</order_date>
+    <return_request_date>2026-05-11T17:09:57Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>22.72</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Toyota Camry 2010 2011 Bumper Cover Retainer | Front | Upper | CAPA | TO1031110 | 5252106060</item_name>
+        <asin>B09QLFCLW2</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>MLX-SHE8154-84NQ-0-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>81.88</refund_amount>
+        <order_item_id>159072073701441</order_item_id>
+    </item_details>
+    <order_id>111-9357778-7800212</order_id>
+    <order_date>2026-05-02T20:47:29Z</order_date>
+    <return_request_date>2026-05-11T16:56:41Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>81.88</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For GMC Sierra 2500 HD/Sierra 3500 HD 2011-2022 Steering Center Link Bushing | Steel And Rubber Material | Black | Bolt On Mounting Type | Replacement For 22754875, 19256657</item_name>
+        <asin>B0FYFX21RG</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>ALX-PAU-RB-533-616-CL360A51</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>46.86</refund_amount>
+        <order_item_id>159336267782041</order_item_id>
+    </item_details>
+    <order_id>111-1340374-8417809</order_id>
+    <order_date>2026-05-06T18:19:30Z</order_date>
+    <return_request_date>2026-05-11T16:44:28Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>46.86</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Nissan Frontier 2005-2016 Engine Cooling Fan Shroud | 4.0L | NI3110125 | 21476EA200</item_name>
+        <asin>B09Q2BD39F</asin>
+        <return_reason_code>POOR_FIT</return_reason_code>
+        <merchant_sku>MLX-SHE1646-430-0-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158127126123081</order_item_id>
+    </item_details>
+    <order_id>112-9731996-4817001</order_id>
+    <order_date>2026-04-19T16:56:12Z</order_date>
+    <amazon_rma_id>DLTgXbYGRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T16:42:41Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>169.22</order_amount>
+    <order_quantity>2</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Nissan Titan Condenser/Pathfinder Armada A/C Cooling Fan Assembly 2004 2005 2006 Replacement For NI3113109 | 92120-7S000</item_name>
+        <asin>B0BK75QWCT</asin>
+        <return_reason_code>CR-ORDERED_WRONG_ITEM</return_reason_code>
+        <merchant_sku>CLX-M0-610880-CL360A55</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158893572421681</order_item_id>
+    </item_details>
+    <order_id>113-0319495-8693055</order_id>
+    <order_date>2026-04-29T14:47:46Z</order_date>
+    <amazon_rma_id>DTT0X0YYRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T16:29:43Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045177890</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>8.23</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>94.06</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For BMW 428i/435i 2014 2015 2016 Fog Light Bezel Driver Side | Front | Made of Plastic | Textured Black | Fully Close Grid | Standard Model | Replacement For BM1038232 | 191275904206, 51117294685</item_name>
+        <asin>B0CP2S42MV</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>KLX-KSI-822635C-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159344483345521</order_item_id>
+    </item_details>
+    <order_id>113-5057200-7147418</order_id>
+    <order_date>2026-05-06T21:18:37Z</order_date>
+    <amazon_rma_id>DZTXXSYwRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T16:28:57Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243552650</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>5.89</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>57.95</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Chevy Silverado 1500 2014 2015 Fog Light Bracket Driver and Passenger Side | Pair | Bumper Mounted | Replacement For GM2602102, GM2603102 | 22944876, 615343805528, 22944875, 615343805511</item_name>
+        <asin>B0BR8LGNWD</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>LLX-PAIR-GM2602102-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>RefundAtFirstScan</resolution>
+        <refund_amount>62.79</refund_amount>
+        <order_item_id>158945706449361</order_item_id>
+    </item_details>
+    <order_id>111-6552821-0985801</order_id>
+    <order_date>2026-04-30T19:52:56Z</order_date>
+    <amazon_rma_id>DfTZXYYRRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T16:24:06Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045169612</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>62.79</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 for Mitsubishi Galant 1999 00 01 02 2003 Interior Door Handle Front OR Rear, Driver Side Gray | with Door Lock Button | Trim:All Submodels | MI1352111 | MR415316</item_name>
+        <asin>B0F4XNQF1M</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPM462148-CL360A2</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>2</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159367329075201</order_item_id>
+    </item_details>
+    <order_id>113-3120139-2133020</order_id>
+    <order_date>2026-05-07T01:53:22Z</order_date>
+    <amazon_rma_id>DkcjXXYlRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T16:15:44Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045167829</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>77.88</order_amount>
+    <order_quantity>4</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 for Mitsubishi Galant 1999 00 01 02 2003 Interior Door Handle Front OR Rear, Driver Side Gray | with Door Lock Button | Trim:All Submodels | MI1352111 | MR415316</item_name>
+        <asin>B0F4XNQF1M</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPM462148-CL360A2</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>2</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159367329075201</order_item_id>
+    </item_details>
+    <order_id>113-3120139-2133020</order_id>
+    <order_date>2026-05-07T01:53:22Z</order_date>
+    <amazon_rma_id>DTcRXsYSRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T16:14:04Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045167294</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>77.88</order_amount>
+    <order_quantity>4</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 for Mitsubishi Galant 1999 00 01 02 2003 Interior Door Handle Front OR Rear, Passenger Side Gray | with Door Lock Button | Trim:All Submodels | MI1353111 | MR415331</item_name>
+        <asin>B0F4XNJ543</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPM462147-CL360A2</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>2</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159314170591561</order_item_id>
+    </item_details>
+    <order_id>113-3120139-2133020</order_id>
+    <order_date>2026-05-07T01:53:22Z</order_date>
+    <amazon_rma_id>DjczXYYGRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T16:12:25Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045162977</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>77.88</order_amount>
+    <order_quantity>4</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For GMC Yukon/Yukon XL 2015 16 17 18 19 2020 Hitch Cover | Rear | Paint to Match | Plastic | Replacement For GM1180181 | 23142974</item_name>
+        <asin>B0C444VK5X</asin>
+        <return_reason_code>PART_NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-USA-RG76510001-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>RefundAtFirstScan</resolution>
+        <refund_amount>113.11</refund_amount>
+        <order_item_id>159076279139801</order_item_id>
+    </item_details>
+    <order_id>111-6306699-4866604</order_id>
+    <order_date>2026-05-02T19:54:14Z</order_date>
+    <amazon_rma_id>DLcFXNYxRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T16:09:58Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045164242</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>120.01</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Ram ProMaster 1500/2500/3500 2014-2022 Headlight Trim Driver And Passenger Side | Pair | Lower | Filler Below Light | Primed White | CH1088103, CH1089103 | 196743295992, 196743296005</item_name>
+        <asin>B0DVX29ZS8</asin>
+        <return_reason_code>CR-ORDERED_WRONG_ITEM</return_reason_code>
+        <merchant_sku>LLX-PAIR-CH1088103-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159103793318641</order_item_id>
+    </item_details>
+    <order_id>112-5044997-4040208</order_id>
+    <order_date>2026-05-03T13:18:37Z</order_date>
+    <amazon_rma_id>DWHNX9YpRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T15:46:56Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045149689</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>58.37</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Chevy Sonic 2013 2014 Door Mirror Passenger Side | Power | Manual Folding | Non-Heated | Paintable | Hatchback/Sedan | Replacement For GM1321534 | 95205472</item_name>
+        <asin>B0D1HHGTM3</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-USA-GM189ER-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158206973490721</order_item_id>
+    </item_details>
+    <order_id>112-9966424-4296264</order_id>
+    <order_date>2026-04-20T23:11:46Z</order_date>
+    <amazon_rma_id>DFH4XGY3RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T15:37:48Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045144399</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.37</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>74.26</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for Chevy Silverado 1500/2500 / 3500 Window Motor 1999-2006 Passenger Side | Front | w/ 6-Teeth Gear | 19208470</item_name>
+        <asin>B0BJ92XTYL</asin>
+        <return_reason_code>CR-MISSED_ESTIMATED_DELIVERY</return_reason_code>
+        <merchant_sku>CLX-M0-USA-ARBC468702-CL360A73</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158732724885161</order_item_id>
+    </item_details>
+    <order_id>111-4239672-8242669</order_id>
+    <order_date>2026-04-28T15:51:09Z</order_date>
+    <amazon_rma_id>DYHdXZYVRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T15:30:57Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045137861</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>Amazon CS</return_type>
+    <order_amount>40.79</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Ford Focus 2000 01 02 03 04 05 06 2007 Rocker Panel Driver Side and Passenger Side | Pair | 74 Inch</item_name>
+        <asin>B09SMV1QZR</asin>
+        <return_reason_code>EXCESSIVE_INSTALLATION</return_reason_code>
+        <merchant_sku>MLX-PAIR-SHE405-04L-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158737286381521</order_item_id>
+    </item_details>
+    <order_id>113-5223687-1751460</order_id>
+    <order_date>2026-04-28T17:20:29Z</order_date>
+    <amazon_rma_id>D5H6XjYYRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T15:28:22Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>313.8</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Chevy Astro 1990-1998 Door Mirror Driver Side | Manual | Non-Heated | Gloss | Replacement For GM1320158 | 15001801</item_name>
+        <asin>B0BCQLMCB4</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-3351-0302-1203-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>50.03</refund_amount>
+        <order_item_id>158907813682001</order_item_id>
+    </item_details>
+    <order_id>111-1830978-9193013</order_id>
+    <order_date>2026-04-29T23:00:44Z</order_date>
+    <return_request_date>2026-05-11T15:25:08Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>50.03</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 Door Handle for Toyota Corolla 2003-2008 Driver Side | Interior | Front | Chrome Lever | with Door Lock Button | Trim:All Submodels | TO1352139 | 6920602090B0</item_name>
+        <asin>B0F4QL2P9J</asin>
+        <return_reason_code>CR-SWITCHEROO</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPS462138-CL360A2</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>157191472341481</order_item_id>
+    </item_details>
+    <order_id>113-3344467-6404234</order_id>
+    <order_date>2026-04-05T15:26:44Z</order_date>
+    <amazon_rma_id>DplDX6YmRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T15:13:38Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243534946</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>5.62</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>19.02</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for RAM 1500/2500/3500 Blower Motor Assembly 2011-2018 for 7L4Z 19805 A</item_name>
+        <asin>B08CK4529X</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-700203-CL360A77</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159247648133441</order_item_id>
+    </item_details>
+    <order_id>111-9545054-2047439</order_id>
+    <order_date>2026-05-05T17:12:24Z</order_date>
+    <amazon_rma_id>DQlSXrYFRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T14:56:52Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045117347</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.78</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>61.11</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for RAM 1500/2500/3500 Blower Motor Assembly 2011-2018 for 7L4Z 19805 A</item_name>
+        <asin>B08CK4529X</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-700203-CL360A77</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159247648133441</order_item_id>
+    </item_details>
+    <order_id>111-9545054-2047439</order_id>
+    <order_date>2026-05-05T17:12:24Z</order_date>
+    <amazon_rma_id>DKYgX8Y8RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T14:44:39Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045110568</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.78</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>61.11</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>CarLights360 For Mercedes-Benz C32/C230/C240/C280/C320/C350 Sedan/Wagon Headlight Assembly 2005 2006 2007 Pair Driver and Passenger Side | MB2502148 | MB2503148 | 203 820 15 59</item_name>
+        <asin>B074T6VPFY</asin>
+        <return_reason_code>CR-ORDERED_WRONG_ITEM</return_reason_code>
+        <merchant_sku>PLX-M1-339-1121L-AS</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158178527728761</order_item_id>
+    </item_details>
+    <order_id>113-9077674-5849814</order_id>
+    <order_date>2026-04-20T13:20:25Z</order_date>
+    <amazon_rma_id>DfYtXrYSRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T14:38:17Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>305.21</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>CarLights360 For 2012-2018 Fiat 500 Pair Driver and Passenger Side Turn Signal/Side Marker Light With Bulbs DOT Certified Included FI2554100 FI2555100 - Replaces 5182423AC 5182422AC ;for Hatchback</item_name>
+        <asin>B07L2HM2KF</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>PLX-M0-18-6114-00-1</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>157659485573961</order_item_id>
+    </item_details>
+    <order_id>113-4861218-8153034</order_id>
+    <order_date>2026-04-11T17:56:03Z</order_date>
+    <amazon_rma_id>Drl6XnY1RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T14:23:31Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243530870</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>5.97</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>0.0</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Hyundai Tucson 2016 2017 2018 Bumper Cover Bracket Driver Side | Front | Upper | PP Plastic/Fiberglass | Replacement For HY1042127 | 191275716984, 86551D3000</item_name>
+        <asin>B0CM79N1D1</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>KLX-KSI-5787468-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>26.96</refund_amount>
+        <order_item_id>159096222934241</order_item_id>
+    </item_details>
+    <order_id>111-7287507-5245802</order_id>
+    <order_date>2026-05-03T01:37:23Z</order_date>
+    <return_request_date>2026-05-11T14:22:36Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>26.96</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For GMC Sierra 2500 HD 2001 02 03 04 05 2006 Front Fender Passenger Side | CAPA Certified | Replacement For 88944418, GM1241281 | Trim: SLE/SLT/SL</item_name>
+        <asin>B0BK722GPC</asin>
+        <return_reason_code>CR-DAMAGED_BY_CARRIER</return_reason_code>
+        <merchant_sku>CLX-M0-USA-20125Q-CL360A7</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159099726800361</order_item_id>
+    </item_details>
+    <order_id>112-9449976-3885811</order_id>
+    <order_date>2026-05-03T00:36:47Z</order_date>
+    <amazon_rma_id>DqChXwYjRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T14:13:30Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>415.66</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for Audi A4 2009 10 11 12 13 14 15 2016 Engine Splash Shield | Lower | 2.0L | Front | AU1228119 | 8K0863821AF</item_name>
+        <asin>B09PVD29Q2</asin>
+        <return_reason_code>CR-SWITCHEROO</return_reason_code>
+        <merchant_sku>MLX-SHE0018B-49S-0-CL360A51</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159028120888401</order_item_id>
+    </item_details>
+    <order_id>111-9275371-1975420</order_id>
+    <order_date>2026-05-02T02:23:09Z</order_date>
+    <amazon_rma_id>DxCWXfYVRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T13:48:24Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>Amazon CS</return_type>
+    <order_amount>73.01</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>CarLights360: For 2014-2020 Toyota 4Runner Fog Light Assembly Driver and Passenger Side Pair w/Bulbs DOT Certified Replacement For TO2593132, TO2592132 | 81210-47010, 81220-47010</item_name>
+        <asin>B07Q4LNJGK</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>PLX-M0-19-6020-00-1-CL360A10</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159245519101721</order_item_id>
+    </item_details>
+    <order_id>112-5831320-0385801</order_id>
+    <order_date>2026-05-05T16:20:18Z</order_date>
+    <amazon_rma_id>DKCxXlYYRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T13:45:35Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045076043</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>98.65</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Chevy Express 1500 2006-2014 HVAC Control Panel Vacuum Hose</item_name>
+        <asin>B0FS25DHYX</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>OLX-ACD15799087-CL360A56</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>26.16</refund_amount>
+        <order_item_id>157925263781761</order_item_id>
+    </item_details>
+    <order_id>111-1509710-0533828</order_id>
+    <order_date>2026-04-16T01:48:14Z</order_date>
+    <return_request_date>2026-05-11T13:14:29Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>26.16</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For BMW 328i/335i 2011 2012 2013 Tow Hook Cover | Front | E92/E93 | 3.0L | Coupe/Convertible | Replacement For BM1029130 | 51117256104</item_name>
+        <asin>B0CZVGQHC1</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>MLX-SHEBM320I13B-87H-0-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159099296135041</order_item_id>
+    </item_details>
+    <order_id>111-7162699-2685064</order_id>
+    <order_date>2026-05-03T01:59:21Z</order_date>
+    <amazon_rma_id>DFfnXHY9RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T13:00:50Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045055940</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>35.12</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Toyota Sienna 2011 12 13 14 15 16 2017 Fog Light Trim Ring Passenger Side | Chrome | Round | SE | Replacement For TO1039150 | 5271208020, 615343613796</item_name>
+        <asin>B0B3S7RX1M</asin>
+        <return_reason_code>CR-DAMAGED_BY_FC</return_reason_code>
+        <merchant_sku>LLX-TO1039150-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>Replacement</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158960126375001</order_item_id>
+    </item_details>
+    <order_id>112-7329058-3888252</order_id>
+    <order_date>2026-05-01T03:29:40Z</order_date>
+    <amazon_rma_id>DFffXdY4RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T12:59:45Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243499276</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>5.58</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>63.28</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Ram ProMaster 1500/2500/3500 2014-2022 Headlight Trim Driver And Passenger Side | Pair | Lower | Filler Below Light | Primed White | CH1088103, CH1089103 | 196743295992, 196743296005</item_name>
+        <asin>B0DVX29ZS8</asin>
+        <return_reason_code>CR-SWITCHEROO</return_reason_code>
+        <merchant_sku>LLX-PAIR-CH1088103-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159103793318641</order_item_id>
+    </item_details>
+    <order_id>112-5044997-4040208</order_id>
+    <order_date>2026-05-03T13:18:37Z</order_date>
+    <amazon_rma_id>Dr0xX0Y6RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T12:38:02Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045050285</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>58.37</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 for Chevy V1500/V2500 Suburban 1990 1991 Fuel Tank Strap | Steel | 43.5 Inches Length | Replacement for ST11</item_name>
+        <asin>B0G2SL196B</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>ALX-PAU-RB-578-011-CL360A51</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158192434379481</order_item_id>
+    </item_details>
+    <order_id>112-1807190-8622602</order_id>
+    <order_date>2026-04-20T18:00:43Z</order_date>
+    <amazon_rma_id>DB06XKYrRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T12:26:15Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045045120</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>68.73</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Cadillac Allante/DeVille 1990 1991 1992 1993 Spark Plug | Platinum Center Electrode Tip | Center Electrode Core Copper | 1 Ground Electrode | 2.193 inches Insulator Height | 19310635</item_name>
+        <asin>B0FVDNX6VD</asin>
+        <return_reason_code>CR-FOUND_BETTER_PRICE</return_reason_code>
+        <merchant_sku>OLX-ACD41-837-CL360A56</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>25.06</refund_amount>
+        <order_item_id>158638899717041</order_item_id>
+    </item_details>
+    <order_id>112-5285185-5954664</order_id>
+    <order_date>2026-04-26T23:24:18Z</order_date>
+    <return_request_date>2026-05-11T12:05:22Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>25.06</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Mercedes-Benz E300/E350 2010 2011 2012 2013 Fog Light Bezel Passenger Side | Front | Lower | ABS Plastic | Textured Black | w/AMG Styling | Replacement For MB1039181 | 191275316375, 2078850453</item_name>
+        <asin>B0CC92SPZ9</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>LLX-MB1039181-CL360A73</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>80.86</refund_amount>
+        <order_item_id>157684621069161</order_item_id>
+    </item_details>
+    <order_id>113-7771719-8222666</order_id>
+    <order_date>2026-04-12T03:47:34Z</order_date>
+    <return_request_date>2026-05-11T05:37:13Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>80.86</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For 2000-2006 Toyota Tundra Rear Tail Light Driver Side TO2800153 DOUBLE Cab; Std Bed; Clear/Red Lens | 81560-0C040</item_name>
+        <asin>B0FG2PF7T1</asin>
+        <return_reason_code>CR-DAMAGED_BY_FC</return_reason_code>
+        <merchant_sku>CLX-M0-TY762-B000L</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159259943290561</order_item_id>
+    </item_details>
+    <order_id>114-6924316-8929014</order_id>
+    <order_date>2026-05-05T18:02:33Z</order_date>
+    <amazon_rma_id>DWG2XRYFRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T05:28:20Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045001408</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>8.03</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>61.16</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For GMC Sierra 1500/2500 1999-2006 Parking Brake Cable Driver and Passenger Side | Pair | Rear Disc Brakes | w/2 Wheel Steering | 78 in. Bed Length | Replacement For 15189791, 15189792</item_name>
+        <asin>B0CLMDFT3V</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>PLX-M0-USA-RC50290004-CL360A72</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158087417843121</order_item_id>
+    </item_details>
+    <order_id>114-9088972-1327465</order_id>
+    <order_date>2026-04-18T21:56:21Z</order_date>
+    <amazon_rma_id>DfGqXZY9RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T05:12:12Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045002372</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>16.43</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>85.02</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Jaguar F-Pace Tow Hole Cover 2017 18 19 2020 Passenger Side | Primed | Paint to Match | JA1029102 | T4A13477LML</item_name>
+        <asin>B0BK7583ZF</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-RJ01840002-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159072806186401</order_item_id>
+    </item_details>
+    <order_id>112-4452760-6818618</order_id>
+    <order_date>2026-05-02T22:46:23Z</order_date>
+    <amazon_rma_id>DTskXkYjRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T04:49:07Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99045000632</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.2</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>24.56</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Subaru WRX 2016 2017 Fog Light Driver And Passenger Side | Pair | With Bulb | With Driver Assist System | For SU2592126, SU2593126 | 84501FJ031, 116-60656L, 84501FJ021, 116-60655R</item_name>
+        <asin>B0FF9TYPXV</asin>
+        <return_reason_code>CR-DEFECTIVE</return_reason_code>
+        <merchant_sku>PLX-M0-SR092-B000L-CL360A54</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159137619757041</order_item_id>
+    </item_details>
+    <order_id>111-4340216-9764220</order_id>
+    <order_date>2026-05-03T18:36:31Z</order_date>
+    <amazon_rma_id>DZrvXLYhRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T02:21:30Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044967396</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>10.09</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>147.65</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Ford F-150 Turn Signal/Side Marker Light 1997 Driver Side For FO2520132 | F65Z 13201 AD</item_name>
+        <asin>B07L23W5CJ</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-18-3372-01</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158874823111321</order_item_id>
+    </item_details>
+    <order_id>114-6819326-6841845</order_id>
+    <order_date>2026-04-29T20:09:14Z</order_date>
+    <amazon_rma_id>D8r4XdYZRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T02:18:24Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044966860</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>25.78</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Buick Enclave Splash Guard/Fender Liner 2008-2017 | Front, Driver Side, Front Section| Replacement For 25965597, GM1248196 | Trim: All Submodels</item_name>
+        <asin>B0BK3632WD</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPB222104-CL360A1</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <refund_amount>63.5</refund_amount>
+        <order_item_id>159268539817561</order_item_id>
+    </item_details>
+    <order_id>114-0911161-3786636</order_id>
+    <order_date>2026-05-05T23:45:30Z</order_date>
+    <return_request_date>2026-05-11T02:09:26Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>63.5</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For BMW X7 2019 20 21 22 23 2024 Reflector Assembly Driver Side | Rear | CAPA | 40i/M50i/M60i/50i Model | For Models With M Sport Package | For BM1184128, BM1184128C | 63148091925</item_name>
+        <asin>B0GK18MT2F</asin>
+        <return_reason_code>CR-DAMAGED_BY_FC</return_reason_code>
+        <merchant_sku>CLX-M0-344-2924L-UC-CL360A51</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>36.26</refund_amount>
+        <order_item_id>159218075270921</order_item_id>
+    </item_details>
+    <order_id>111-4528523-5986635</order_id>
+    <order_date>2026-05-04T22:07:20Z</order_date>
+    <return_request_date>2026-05-11T02:04:16Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>36.26</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For BMW 328i / 335i xDrive Headlight Bracket 2009 10 11 2012 Passenger Side | Mounting | Sedan/Wagon | BM2509103 | 51647138402</item_name>
+        <asin>B096L3P16M</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>CLX-M0-USA-RB10990001-CL360A71</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159115353333481</order_item_id>
+    </item_details>
+    <order_id>114-3688931-7350669</order_id>
+    <order_date>2026-05-03T12:11:28Z</order_date>
+    <amazon_rma_id>DLrbXBYVRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T01:46:05Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044953150</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>12.2</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>81.42</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Ford Focus 2015 2016 2017 2018 Fog Light Bezel Passenger Side | Front | Matte-Black | With Fog | SE | Replacement For FO1039151 | F1EZ15266L, F1EZ15266A</item_name>
+        <asin>B0CKFLJYX9</asin>
+        <return_reason_code>EXCESSIVE_INSTALLATION</return_reason_code>
+        <merchant_sku>KLX-KSI-213335B-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>22.23</refund_amount>
+        <order_item_id>159314552543321</order_item_id>
+    </item_details>
+    <order_id>112-3699467-5065049</order_id>
+    <order_date>2026-05-07T02:49:16Z</order_date>
+    <return_request_date>2026-05-11T01:29:04Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>22.23</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For GMC Sierra 1500 2007-2014 Transmission Oil Cooler Line | Inlet and Outlet | 1 Transmission Line | Replacement For 15828750, 15908473</item_name>
+        <asin>B0F1THP1R6</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-USA-RC31310043-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_home_improvement</category>
+        <refund_amount>73.21</refund_amount>
+        <order_item_id>158930087065001</order_item_id>
+    </item_details>
+    <order_id>111-2650919-3306608</order_id>
+    <order_date>2026-04-30T13:51:34Z</order_date>
+    <amazon_rma_id>DqJVXSYGRRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T01:16:11Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044942402</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>25.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>73.21</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Toyota Camry 2021 2022 Bumper Cover Molding Driver Side | Front | Hybrid | LE Model | Replacement For TO1038244 | 191275814000</item_name>
+        <asin>B0B45FQ981</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>LLX-TO1038244-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159071522010161</order_item_id>
+    </item_details>
+    <order_id>114-5559341-5434663</order_id>
+    <order_date>2026-05-02T19:20:36Z</order_date>
+    <amazon_rma_id>DYJ7XzY4RRMA</amazon_rma_id>
+    <return_request_date>2026-05-11T00:52:45Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243449219</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.25</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>59.41</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Kia Sorento 2019 2020 Bumper Cover Air Duct Driver Side | Black | Made Of HDPE Plastic | Replacement For KI1038145 | 191275798409, 86571C6500</item_name>
+        <asin>B0CC924MZZ</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>LLX-KI1038145-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>52.38</refund_amount>
+        <order_item_id>158658682220521</order_item_id>
+    </item_details>
+    <order_id>112-3422131-5795434</order_id>
+    <order_date>2026-04-27T13:59:43Z</order_date>
+    <return_request_date>2026-05-10T23:34:31Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>52.38</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 for Mazda 5 2006-2017 Exterior Door Handle Front, Driver Side Textured Black | with Key Hole| Trim:All Submodels</item_name>
+        <asin>B0F4SK6GTK</asin>
+        <return_reason_code>CR-DAMAGED_BY_FC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPM462182-CL360A4</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessReplacement</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>31.04</refund_amount>
+        <order_item_id>158203834942281</order_item_id>
+    </item_details>
+    <order_id>113-3989239-7361048</order_id>
+    <order_date>2026-04-20T21:16:15Z</order_date>
+    <return_request_date>2026-05-10T22:54:44Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>31.04</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Chevy Silverado 1500 2014 15 16 17 18 2019 HVAC Control Panel | Black Carbon | Retainer Type | Male Terminal | Female Connector | 10 Pieces Terminal | 1 Piece Connector | 84258729</item_name>
+        <asin>B0FRMRM8SV</asin>
+        <return_reason_code>CR-DAMAGED_BY_FC</return_reason_code>
+        <merchant_sku>OLX-ACD15-74881-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159199395025721</order_item_id>
+    </item_details>
+    <order_id>113-4615496-6764252</order_id>
+    <order_date>2026-05-04T19:06:52Z</order_date>
+    <amazon_rma_id>DxnWXkYjRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T22:36:34Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243422908</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.58</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>191.19</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Jeep Compass 2014 2015 2016 2017 Fog Light Bezel Passenger Side | Front | w/Chrome Trim | Replacement For CH1039184 | 68213204AA</item_name>
+        <asin>B0B7KF2899</asin>
+        <return_reason_code>EXCESSIVE_INSTALLATION</return_reason_code>
+        <merchant_sku>LLX-CH1039184-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>41.81</refund_amount>
+        <order_item_id>158748405943401</order_item_id>
+    </item_details>
+    <order_id>112-9167265-4666637</order_id>
+    <order_date>2026-04-28T20:48:15Z</order_date>
+    <return_request_date>2026-05-10T21:19:27Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>41.81</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>CarLights360 For 2007-2013 Chevy Avalanche Headlight Driver and Passenger Side DOT Certified Bulbs Included GM2502263 GM2503263 - Replaces 22853025 22853026 ;</item_name>
+        <asin>B07KDJZMB2</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>PLX-M0-20-6756-00-1</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159249437454841</order_item_id>
+    </item_details>
+    <order_id>112-6496072-3937016</order_id>
+    <order_date>2026-05-05T13:50:05Z</order_date>
+    <amazon_rma_id>DHPVXYY7RRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T20:45:17Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>273.36</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for Ford F150 Blower Motor Assembly 2009-2014 for CL1Z 19805 A</item_name>
+        <asin>B0BK73TNR1</asin>
+        <return_reason_code>CR-DEFECTIVE</return_reason_code>
+        <merchant_sku>CLX-M0-700237-CL360A56</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>Replacement</resolution>
+        <category>gl_home_improvement</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159328207886481</order_item_id>
+    </item_details>
+    <order_id>113-9035386-7778652</order_id>
+    <order_date>2026-05-06T15:05:30Z</order_date>
+    <amazon_rma_id>D2P9XSYDRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T20:37:25Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044828858</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>8.03</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>64.63</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Mercedes-Benz C300 2012 2013 2014 Sedan Bumper Grille | Front | Center | Lower | Plastic | Textured | Black Color | With Parktronic Holes | Replacement For MB1036119 | 2048851324</item_name>
+        <asin>B0GLF87N83</asin>
+        <return_reason_code>CR-FOUND_BETTER_PRICE</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPM015324-CLA2</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159162589336121</order_item_id>
+    </item_details>
+    <order_id>111-2061208-0831400</order_id>
+    <order_date>2026-05-04T22:09:24Z</order_date>
+    <amazon_rma_id>DkK5CCYJRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T20:05:25Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044812829</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>12.2</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>53.48</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Saturn Ion Coupe/Sedan AC Radiator Fan Assembly 2003-2004 2.2L / 2.4L Old Model 2 Pins For GM3115177 | 22710153</item_name>
+        <asin>B0BK74599Q</asin>
+        <return_reason_code>CR-MISSING_PARTS</return_reason_code>
+        <merchant_sku>CLX-M0-335-55044-000-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>105.52</refund_amount>
+        <order_item_id>158130642211601</order_item_id>
+    </item_details>
+    <order_id>113-0858970-8786623</order_id>
+    <order_date>2026-04-19T17:48:58Z</order_date>
+    <return_request_date>2026-05-10T20:01:02Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>105.52</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Ford F-150 / F-250 / F-350 Turn Signal Switch 1987 88 89 90 1991 | Hazard Warning | w/Tilt Steering Wheel</item_name>
+        <asin>B0BK74KNFC</asin>
+        <return_reason_code>POOR_FIT</return_reason_code>
+        <merchant_sku>CLX-M0-USA-ARBF504302-CL360A71</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158179079854921</order_item_id>
+    </item_details>
+    <order_id>113-2169708-1786660</order_id>
+    <order_date>2026-04-20T14:09:30Z</order_date>
+    <amazon_rma_id>DxK4CLYYRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T19:52:38Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243393840</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.25</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>45.6</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For 1990 1991 Toyota 4Runner Signal Light Driver Side Replacement For TO2520105</item_name>
+        <asin>B0FFT6ZJ8P</asin>
+        <return_reason_code>CR-ORDERED_WRONG_ITEM</return_reason_code>
+        <merchant_sku>CLX-M0-TY425-B000L</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>28.99</refund_amount>
+        <order_item_id>158765436388361</order_item_id>
+    </item_details>
+    <order_id>111-8951190-2049008</order_id>
+    <order_date>2026-04-29T03:23:49Z</order_date>
+    <return_request_date>2026-05-10T19:50:31Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>145.11</order_amount>
+    <order_quantity>2</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for Ford F-100 / F-150 / F-250 / F-350 Fuel Tank Strap 1980-1996 | Steel Material | 19 Gallons | Side Mount | Set of 2</item_name>
+        <asin>B0BJ92V4W3</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>CLX-M0-USA-REPF670702-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_home_improvement</category>
+        <refund_amount>49.03</refund_amount>
+        <order_item_id>159036838403481</order_item_id>
+    </item_details>
+    <order_id>111-2008879-5823404</order_id>
+    <order_date>2026-05-02T02:42:38Z</order_date>
+    <return_request_date>2026-05-10T19:49:16Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>49.03</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Scion iA Cabin Air Filter 2016 | For 87139-WB001</item_name>
+        <asin>B08BXDF14R</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>CLX-M0-800211P-CL360A56</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_home_improvement</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159182350536161</order_item_id>
+    </item_details>
+    <order_id>112-4018838-4135458</order_id>
+    <order_date>2026-05-04T14:47:49Z</order_date>
+    <amazon_rma_id>D7XdCyYqRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T19:40:28Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243392447</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>5.58</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>29.09</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Toyota Tundra Turn Signal Light Assembly 2005 2006 2007 Pair Driver and Passenger Side | Limited/SR5 | Double Cab | For TO2531147, TO2530147 | 815100C030, 815200C030</item_name>
+        <asin>B0BKGGY9YV</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>PLX-M0-312-1556L-AS-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158416995784481</order_item_id>
+    </item_details>
+    <order_id>111-2215447-5987419</order_id>
+    <order_date>2026-04-23T12:23:09Z</order_date>
+    <amazon_rma_id>DZXXC8Y8RRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T19:37:53Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044803491</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>12.2</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>79.37</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Toyota Camry 2010-2016 Oil Pan | Made Of Steel | Black | With Drain Plug | Replacement For 3510606020, 3510633070</item_name>
+        <asin>B0FCFY9B24</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-JRT31860001-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158443927878161</order_item_id>
+    </item_details>
+    <order_id>111-0142494-2533823</order_id>
+    <order_date>2026-04-23T20:26:16Z</order_date>
+    <amazon_rma_id>DpXqCGY7RRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T19:18:09Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044794715</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.78</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>50.38</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For BMW 550i 2006 07 08 09 2010 Bumper Cover Driver Side | Front Upper BM1038103</item_name>
+        <asin>B09WRKFX6F</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-B010326-CL360A74</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>21.33</refund_amount>
+        <order_item_id>158443565390561</order_item_id>
+    </item_details>
+    <order_id>111-7635849-6525846</order_id>
+    <order_date>2026-04-23T22:36:08Z</order_date>
+    <return_request_date>2026-05-10T19:17:58Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>21.33</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Chevy Suburban/Tahoe 2021 2022 2023 Bumper Reinforcement Bracket Driver &amp; Passenger Side Pair Front | Lower | Outer | CAPA | Plastic | Z71 Model | GM1026103C, GM1027103C | 84711777, 84711776</item_name>
+        <asin>B0D8JJS4NG</asin>
+        <return_reason_code>CR-UNWANTED_ITEM</return_reason_code>
+        <merchant_sku>KLX-PAIR-KSI-337746CQ-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>157748858237521</order_item_id>
+    </item_details>
+    <order_id>114-5478929-4985854</order_id>
+    <order_date>2026-04-13T02:44:47Z</order_date>
+    <amazon_rma_id>DrXcCmY2RRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T19:11:50Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044790988</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>71.58</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For GMC Jimmy/Suburban 1990 1991 Grille | Chrome/Argent | w/Dual Rect Headlight | GM1200322 | 15628795</item_name>
+        <asin>B09VM4N29G</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>MLX-SHE911-99-4-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>109.78</refund_amount>
+        <order_item_id>159357016922401</order_item_id>
+    </item_details>
+    <order_id>111-0237777-3497833</order_id>
+    <order_date>2026-05-06T22:42:20Z</order_date>
+    <amazon_rma_id>D2XHC1YwRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T19:07:23Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>210.42</order_amount>
+    <order_quantity>2</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Hyundai Sonata 2011 2012 2013 2014 2015 Windshield Washer Tank | Replacement For HY1288106</item_name>
+        <asin>B0B5K4SQQX</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>LLX-HY1288106-CL360A71</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158888566126721</order_item_id>
+    </item_details>
+    <order_id>113-0433123-2630653</order_id>
+    <order_date>2026-04-30T02:06:42Z</order_date>
+    <amazon_rma_id>DfXzC4YHRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T19:04:08Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044785654</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>16.85</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>66.31</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Chevy Camaro 2010 11 12 13 14 2015 Door Mirror Passenger Side | Power | Heated | Paint To Match | Replacement For 92247464 | GM1321415</item_name>
+        <asin>B0BJ93WTVM</asin>
+        <return_reason_code>CR-DEFECTIVE</return_reason_code>
+        <merchant_sku>CLX-M0-1310141-CL360A1</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158601736931881</order_item_id>
+    </item_details>
+    <order_id>113-0860307-8949848</order_id>
+    <order_date>2026-04-26T15:13:25Z</order_date>
+    <amazon_rma_id>Dqv3CDYbRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T18:18:02Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044769467</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.78</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>0.0</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 for Chevy Malibu 1997 98 99 00 2001 Circuit Breaker | Male Terminal | 14 Volts | with Moisture Sealed | 25 Amperage</item_name>
+        <asin>B0FR8PMV4N</asin>
+        <return_reason_code>PART_NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>OLX-ACD12088575-CL360A61</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158950134592041</order_item_id>
+    </item_details>
+    <order_id>112-3486958-7725023</order_id>
+    <order_date>2026-05-01T03:35:53Z</order_date>
+    <amazon_rma_id>DqS6CjYKRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T18:04:19Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044760957</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.2</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>30.01</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Ford F-250 Splash Guard/Fender Liner 1997-2004 Driver And Passenger Side | Pair | Front | Lower Section | FO1248119, FO1249119 | F75Z16103AA, F65Z16102AA</item_name>
+        <asin>B0BK34W7GS</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>PLX-M0-USA-F222142-CL360A3</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159101284595321</order_item_id>
+    </item_details>
+    <order_id>111-2178153-8351407</order_id>
+    <order_date>2026-05-03T03:09:39Z</order_date>
+    <amazon_rma_id>DQSmCRY6RRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T17:59:33Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044756239</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.9</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>34.62</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Chevy S10 1994-2004 Door Mirror Driver Side | Manual | Non-Heated | Standard | Extended Cab | Replacement For 15977933 | GM1320129</item_name>
+        <asin>B07V5G2JLH</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-2160012-CL360A1</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158954102515961</order_item_id>
+    </item_details>
+    <order_id>112-4087198-5609050</order_id>
+    <order_date>2026-05-01T16:17:25Z</order_date>
+    <amazon_rma_id>DKSKCTYTRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T17:55:12Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044753607</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.37</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>30.93</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Chevy Silverado 1500 2003 2004 2005 2006 Dashboard Instrument Bezel | Plastic Material | Black | Clip On Mounting Method | Replacement For 15804937</item_name>
+        <asin>B0FWBGNZ43</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>ALX-PAU-MM-57318-CL360A56</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>RefundAtFirstScan</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>151.02</refund_amount>
+        <order_item_id>159020545447601</order_item_id>
+    </item_details>
+    <order_id>111-8115419-0971433</order_id>
+    <order_date>2026-05-01T18:52:10Z</order_date>
+    <amazon_rma_id>DHSrCMY9RRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T17:35:12Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044744573</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.78</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>151.02</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Toyota 4Runner Splash Guard/Fender Liner 2014-2020 Driver and Passenger Side Pair/Set | Front | Inner Panel | 17 Inch Wheels | For TO1248198, TO1249198 | 5387635150, 5387535150</item_name>
+        <asin>B0BKGKRQXZ</asin>
+        <return_reason_code>PART_NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>PLX-M0-USA-REPT222198-CL360A1</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>69.97</refund_amount>
+        <order_item_id>157243889313001</order_item_id>
+    </item_details>
+    <order_id>112-9702315-8433003</order_id>
+    <order_date>2026-04-06T12:14:24Z</order_date>
+    <amazon_rma_id>Dk5KCdY8RRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T17:22:09Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044741101</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>18.77</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>69.97</order_amount>
+    <order_quantity>0</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Nissan TITAN 2004-2014 Door Lock Actuators Rear, Driver And Passenger Side | Pair | 2 Blade Male Terminal &amp; 1 Female Connector Configuration | Integrated Latch | 825009GE1A, 825019GE1A</item_name>
+        <asin>B0F5WQRN5Y</asin>
+        <return_reason_code>PART_NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>CLX-M0-USA-SET-REPN315307-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159218901606441</order_item_id>
+    </item_details>
+    <order_id>113-1414805-2019464</order_id>
+    <order_date>2026-05-04T22:56:01Z</order_date>
+    <amazon_rma_id>DL5HC6YFRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T16:53:19Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044729894</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>15.42</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>132.89</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>Energy Suspension Shock Bushings 5/8inch I.D. / 1 1/16inch O.D. / 1 7/ Black</item_name>
+        <asin>B09MQX5SV1</asin>
+        <return_reason_code>CR-ORDERED_WRONG_ITEM</return_reason_code>
+        <merchant_sku>TLX-eng9.8116G-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>25.18</refund_amount>
+        <order_item_id>158924455435921</order_item_id>
+    </item_details>
+    <order_id>114-9807007-8566641</order_id>
+    <order_date>2026-05-01T01:45:54Z</order_date>
+    <return_request_date>2026-05-10T16:43:44Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>50.36</order_amount>
+    <order_quantity>2</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For Audi Q5/SQ5 Sportback 2021 2022 2023 Tail Light Assembly Passenger Side | LED | Clear and Red Lens | Replacement For AU2801124 | 80A945070C, 80A945070E</item_name>
+        <asin>B0CCMXWS8Z</asin>
+        <return_reason_code>CR-DAMAGED_BY_FC</return_reason_code>
+        <merchant_sku>CLX-M0-346-4004R-ASN-CL360A51</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159151376090241</order_item_id>
+    </item_details>
+    <order_id>113-0794679-5940267</order_id>
+    <order_date>2026-05-04T00:03:35Z</order_date>
+    <amazon_rma_id>Dp4GC0YWRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T15:40:01Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243347027</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.1</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>140.84</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>for BMW 328i/328xi 2006 2007 2008 Headlight Bracket Driver and Passenger Side | Pair | Replacement for BM2508102, BM2509102 | 191275116753, 51647116707, 191275009253, 51647116708</item_name>
+        <asin>B0BQWYKBC8</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>LLX-PAIR-BM2508102-CL360A74</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158912060186761</order_item_id>
+    </item_details>
+    <order_id>113-1969359-2752249</order_id>
+    <order_date>2026-04-29T21:31:03Z</order_date>
+    <amazon_rma_id>Dr4ZCDY0RRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T15:36:31Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044695091</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>15.87</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>263.78</order_amount>
+    <order_quantity>3</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 For BMW 328xi 2007 2008 Sedan/Coupe/Wagon Radiator Supports Driver And Passenger Side | Pair | Side Panel Type | Guide Plate | BM1225205, BM1225206 | 51647117811, 51647117812</item_name>
+        <asin>B0FGXR8G9T</asin>
+        <return_reason_code>AMZ-PG-BAD-DESC</return_reason_code>
+        <merchant_sku>CLX-M0-USA-SET-RB25050027-CL360A79</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158912060186561</order_item_id>
+    </item_details>
+    <order_id>113-1969359-2752249</order_id>
+    <order_date>2026-04-29T21:31:03Z</order_date>
+    <amazon_rma_id>Dt4CC8YTRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T15:29:13Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044692585</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>7.78</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>263.78</order_amount>
+    <order_quantity>3</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>KarParts360 Jeep Cherokee 2014-2018 Windshield Washer Reservoir with Cap | CH1288250 | 615343004761, 68225063AA</item_name>
+        <asin>B0B4PB461K</asin>
+        <return_reason_code>PART_NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>LLX-CH1288250-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>159071961483241</order_item_id>
+    </item_details>
+    <order_id>112-9152414-4856220</order_id>
+    <order_date>2026-05-02T20:25:27Z</order_date>
+    <amazon_rma_id>Dq4NC2YNRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T14:59:40Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044680276</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>16.85</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>52.15</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Ford E-350 Super Duty 1999 2000 Driver and Passenger Side | Pair Door Mirror | Manual | Textured Black | Flat Type | Swing Lock Paddle | Replacement For F4UZ17683A | FO1320172</item_name>
+        <asin>B0BK9PT798</asin>
+        <return_reason_code>CR-QUALITY_UNACCEPTABLE</return_reason_code>
+        <merchant_sku>PLX-M0-330-5401L3MF-CL360A6</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158540709276841</order_item_id>
+    </item_details>
+    <order_id>113-8628753-1605835</order_id>
+    <order_date>2026-04-25T13:02:40Z</order_date>
+    <amazon_rma_id>DByCCFYVRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T14:14:47Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044667684</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>19.17</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>Amazon CS</return_type>
+    <order_amount>134.06</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Ford E-350 Super Duty 1999 2000 Driver and Passenger Side | Pair Door Mirror | Manual | Textured Black | Flat Type | Swing Lock Paddle | Replacement For F4UZ17683A | FO1320172</item_name>
+        <asin>B0BK9PT798</asin>
+        <return_reason_code>CR-DAMAGED_BY_FC</return_reason_code>
+        <merchant_sku>PLX-M0-330-5401L3MF-CL360A6</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>158540709276841</order_item_id>
+    </item_details>
+    <order_id>113-8628753-1605835</order_id>
+    <order_date>2026-04-25T13:02:40Z</order_date>
+    <amazon_rma_id>D5yTClYHRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T14:01:30Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044659406</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>19.17</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>134.06</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Toyota Corolla 2019-2024/Highlander 2021-2023 Fog Light Driver and Passenger Side | Pair | Hatchback | XSE | CAPA | Replacement For TO2592142C, TO2593142C | 81220-12240, 81210-12240</item_name>
+        <asin>B0C7W9ZZJ1</asin>
+        <return_reason_code>CR-SWITCHEROO</return_reason_code>
+        <merchant_sku>PLX-M0-312-2035L-AC-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>0.0</refund_amount>
+        <order_item_id>157974414528081</order_item_id>
+    </item_details>
+    <order_id>112-4156039-9777025</order_id>
+    <order_date>2026-04-16T23:10:56Z</order_date>
+    <amazon_rma_id>DvFxCnYGRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T13:27:27Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>9302010623390243318973</tracking_id>
+        <return_carrier>USPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>6.44</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Seller</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>162.41</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>ARP Header Bolt Kit 3/8 X 1.000in Hex</item_name>
+        <asin>B09NLV6LG1</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>TLX-arp100-1110-CL360A70</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>ReturnlessRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>46.67</refund_amount>
+        <order_item_id>158623094164001</order_item_id>
+    </item_details>
+    <order_id>111-2952459-9373850</order_id>
+    <order_date>2026-04-26T21:33:26Z</order_date>
+    <return_request_date>2026-05-10T12:35:42Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <label_cost>0.0</label_cost>
+        <label_type>AmazonUnPaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>42.3</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Lexus IS350/IS250 2014 2015 2016 Grille Molding | CAPA Certified | Center | Outer | Chrome | Replacement For LX1202105, LX1202105C | 5271153061</item_name>
+        <asin>B0D167CGH9</asin>
+        <return_reason_code>PART_NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>MLX-SHE3316A-98CQ-0-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>81.46</refund_amount>
+        <order_item_id>158734200551241</order_item_id>
+    </item_details>
+    <order_id>111-7099109-8785041</order_id>
+    <order_date>2026-04-28T16:26:02Z</order_date>
+    <amazon_rma_id>DL3fCgYCRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T12:08:17Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044634218</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>16.43</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>116.38</order_amount>
+    <order_quantity>1</order_quantity>
+</return_details>
+<return_details>
+    <item_details>
+        <item_name>For Chevy Blazer / Suburban 1990 1991 Headlight Bezel Driver and Passenger Side | Pair | w/Dual Rectangular Headlights | Chrome/Argent | Replacement For 15628669, 15628670 | GM2512161, GM2513162</item_name>
+        <asin>B09ZC8FK7K</asin>
+        <return_reason_code>CR-NOT_COMPATIBLE</return_reason_code>
+        <merchant_sku>MLX-PAIR-SHE911-95DL-CL360A50</merchant_sku>
+        <in_policy>Y</in_policy>
+        <return_quantity>1</return_quantity>
+        <resolution>StandardRefund</resolution>
+        <category>gl_automotive</category>
+        <refund_amount>58.54</refund_amount>
+        <order_item_id>159357016922441</order_item_id>
+    </item_details>
+    <order_id>111-0237777-3497833</order_id>
+    <order_date>2026-05-06T22:42:20Z</order_date>
+    <amazon_rma_id>D434CyYsRRMA</amazon_rma_id>
+    <return_request_date>2026-05-10T10:38:05Z</return_request_date>
+    <return_request_status>Approved</return_request_status>
+    <a_to_z_claim>false</a_to_z_claim>
+    <is_prime>N</is_prime>
+    <label_details>
+        <tracking_id>1ZR096K99044623435</tracking_id>
+        <return_carrier>UPS</return_carrier>
+        <currency_code>USD</currency_code>
+        <label_cost>11.0</label_cost>
+        <label_type>AmazonPrePaidLabel</label_type>
+    </label_details>
+    <label_to_be_paid_by>Customer</label_to_be_paid_by>
+    <return_type>C-Returns</return_type>
+    <order_amount>210.42</order_amount>
+    <order_quantity>2</order_quantity>
+</return_details></Message>
+</AmazonEnvelope>
