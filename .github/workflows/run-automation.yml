@@ -10,24 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    # 👇 create credentials.json from secret
-    - name: Create Google credentials file
-      run: echo '${{ secrets.GOOGLE_CREDENTIALS }}' > credentials.json
+      # create credentials.json from secret
+      - name: Create Google credentials file
+        run: echo '${{ secrets.GOOGLE_CREDENTIALS }}' > credentials.json
 
-    # 👇 create token.json from secret
-    - name: Create Google token file
-      run: echo '${{ secrets.GOOGLE_TOKEN }}' > token.json
+      # create token.json from secret
+      - name: Create Google token file
+        run: echo '${{ secrets.GOOGLE_TOKEN }}' > token.json
 
-    - name: Run automation
-      run: node main.js
+      - name: Run automation
+        run: node main.js
