@@ -1,25 +1,32 @@
-const { readAllCSVs } = require("./processors/csv_reader");
-const { writeToSheets } = require("./processors/google_sheets");
+const { execSync } = require("child_process");
+const { google } = require("googleapis");
+const { GoogleAuth } = require("google-auth-library");
 
-async function main() {
-  const csvFiles = await readAllCSVs();
-
-  let rows = [];
-
-  csvFiles.forEach(file => {
-    file.rows.forEach(r => {
-      rows.push({
-        order_id: r["Order ID"] || r["order_id"] || "",
-        customer: r["Customer"] || r["buyer"] || "",
-        sku: r["SKU"] || r["sku"] || "",
-        reason: r["Reason"] || r["reason"] || "",
-        marketplace: file.file
-      });
-    });
+async function getAuthClient() {
+  const auth = new GoogleAuth({
+    keyFile: "service-account.json",
+    scopes: [
+      "https://www.googleapis.com/auth/drive",
+      "https://www.googleapis.com/auth/spreadsheets",
+      "https://www.googleapis.com/auth/gmail.readonly"
+    ],
   });
-
-  console.log("Uploading rows:", rows.length);
-  await writeToSheets(rows);
+  return await auth.getClient();
 }
 
-main();
+async function runPipeline() {
+  console.log("?? START RETURNS PIPELINE");
+
+  console.log("?? Step 1: Download Gmail attachments");
+  execSync("node gmail-download.js", { stdio: "inherit" });
+
+  console.log("?? Step 2: Run processors");
+  execSync("node run-all.js", { stdio: "inherit" });
+
+  console.log("?? Step 3: Upload to Google Sheets");
+  execSync("node sheets-writer.js", { stdio: "inherit" });
+
+  console.log("?? PIPELINE FINISHED");
+}
+
+runPipeline();
